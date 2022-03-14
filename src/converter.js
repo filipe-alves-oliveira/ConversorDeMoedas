@@ -1,4 +1,4 @@
-function converter(){
+function Converter(){
     var valorElemento = document.getElementById("valor");
     var valor = valorElemento.value;
     
@@ -10,5 +10,5 @@ function converter(){
     
     var elementoValorConvertido = document.getElementById("valorConvertido")
     var valorConvertido = "O resultado em real é R$ " + valorEmReal;
-    elementoValorConvertido.innverHTML = valorConvertido;
+    elementoValorConvertido.innerHTML = valorConvertido;
   }
