@@ -1,0 +1,22 @@
+{
+  "name": "conversordemoedas",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/filipe2607/pen/qBVePMd](https://codepen.io/filipe2607/pen/qBVePMd).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipe-alves-oliveira/ConversorDeMoedas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipe-alves-oliveira/ConversorDeMoedas/issues"
+  },
+  "homepage": "https://github.com/filipe-alves-oliveira/ConversorDeMoedas#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
